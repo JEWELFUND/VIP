@@ -1,9 +1,19 @@
-#### VIP Facebook Cracker
+<p align="center">
+      CRACKER TOOL BY MARK TECH
+</p>
 
-````python2
-git clone https://github.com/GUPTA-SHAKEL/
-VIP.git
+#### INSTALL TOOL ON TERMUX
+```python
 
-cd VIP
-
-python2 VIP.py
+$ pkg update && apt upgrade
+$ pkg install python2
+$ pip2 install mechanize lolcat
+$ pip2 install requests bs4
+$ pip2 install futures
+$ pkg install git
+$ git clone https://github.com/GUPTA-SHAKEL/VIP.git
+```
+#### RUN SCRIPT
+```python2
+$ cd VIP
+$ python2 VIP.py
