@@ -1,5 +1,5 @@
 <p align="center">
-#### CRACKER TOOL BY MARK TECH
+CRACKER TOOL BY MARK TECH
 </p>
 
 #### INSTALL TOOL ON TERMUX
